@@ -5,11 +5,6 @@ export const features = [
         'link': 'Bookcharacternamecustomizer',
         'date_created': '10/20/2023'
     },
-    {
-        'title':'Custom link hoverings',
-        'author': 'Adam Basha',
-        'link': 'customlink',
-        'date_created': '10/20/2023'
-    }
+
    
 ]
