@@ -1,7 +1,7 @@
 "use client"
 import { useState, useEffect, useRef } from "react";
 import { port } from "./functions";
-import { features } from "@/db/features";
+import { features } from "@/app/db/features";
 export default function Search() {
   const [searchValue, setSearchValue] = useState(""); // State to store the value of search input
   const [searchResults, setSearchResults] = useState([]); // State to store the filtered search results
