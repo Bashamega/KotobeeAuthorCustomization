@@ -1,10 +1,10 @@
 "use client"
 import React from 'react';
-import { Nav } from '@/components/Nav';
-import Search from '@/components/Search';
-import { features } from '@/db/features';
-import { port } from '@/components/functions';
-import { Footer } from '@/components/footer';
+import { Nav } from '../components/Nav';
+import Search from '../components/search';
+import { features } from '../db/features';
+import { port } from '../components/functions';
+import { Footer } from '../components/footer';
 export default function Home() {
 
 
