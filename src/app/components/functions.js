@@ -1,1 +1,1 @@
-export const port = "https://kotobee-author-customization.vercel.app"
+export const port = "http://localhost:3000"
