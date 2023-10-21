@@ -1,7 +1,7 @@
 "use client"
 import React, { useState } from 'react';
 import { Nav } from "@/app/components/Nav";
-import { Footer } from "@/app/components/Footer";
+import { Footer } from "@/app/components/footer";
 import './page.css';
 
 export default function BookCharacterNameCustomizer() {

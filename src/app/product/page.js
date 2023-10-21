@@ -1,4 +1,4 @@
-import { NotFound } from "@/app/components/notFound";
+import { NotFound } from "../components/notFound";
 
 export default function product(){
     return(
