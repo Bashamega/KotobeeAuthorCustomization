@@ -5,6 +5,13 @@ export const features = [
         'link': 'Bookcharacternamecustomizer',
         'date_created': '10/20/2023'
     },
+    {
+        'title':'Custom hoverings',
+        'author': 'Adam Basha',
+        'link': 'hover',
+        
+        'date_created': '10/20/2023'
+    }
 
    
 ]
